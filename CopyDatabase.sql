@@ -1,4 +1,4 @@
---先分离目标数据库DB
+--鍏堝垎绂荤洰鏍囨暟鎹簱DB
 USE master;
 GO 
 EXEC sp_detach_db
@@ -6,11 +6,11 @@ EXEC sp_detach_db
 GO
 
 
---在命令复制一份目标库叫DB2
+--鐢╟md鍛戒护琛屽鍒朵竴浠界洰鏍囧簱鍙獶B2
 --copy E:\MSSQL\Data\DB.mdf E:\MSSQL\Data\DB2.mdf
 --copy E:\MSSQL\Data\DB.ldf E:\MSSQL\Data\DB2.ldf
 
---创建DB 和DB2
+--鍒涘缓DB 鍜孌B2
 USE master;
 GO
 CREATE DATABASE SampoECNew
