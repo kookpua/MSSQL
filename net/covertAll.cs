@@ -1,4 +1,5 @@
-//°Ñ”µ×Ö×Ö·û´®ŞD“Q³Éint”µ½M
+ï»¿ //ä¿®æ”¹ç·¨ç¢¼é‡æ–°æäº¤
+//æŠŠæ•¸å­—å­—ç¬¦ä¸²è½‰æ›æˆintæ•¸çµ„
 int[] specificationAttributeOptionList = null;
 
 if (!string.IsNullOrEmpty(AttributeValueIds))

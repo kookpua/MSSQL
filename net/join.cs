@@ -1,2 +1,2 @@
- //²éÔƒÄ³Ò»×Ö¶ÎÓÃ,ßB½Ó
+ï»¿ //æŸ¥è©¢æŸä¸€å­—æ®µç”¨,é€£æŽ¥
  attributeValueName = string.Join(",", query.Select(p => p.Name));
